@@ -1,0 +1,16 @@
+@charset "utf-8";
+h1 {
+	text-shadow: 0px 0px #2776C0;
+	color: #4E6BDC;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	font-size: 20pt;
+}
+h2   {
+	color: #5FCBF1;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+}
+body p section {
+}
